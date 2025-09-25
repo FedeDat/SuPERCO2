@@ -1,4 +1,5 @@
-FESEM data.
+# Methods
+A ZEISS Supra 40 Field Emission Scanning Electron Microscopy (FESEM) was employed to characterize the morphology of the CuO powder electrode. 
 
 # 5K magnification
 ![preview](5K.png)
