@@ -1,2 +1,2 @@
-# Folder containing:
+Folder containing:
 - 
