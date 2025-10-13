@@ -1,2 +1,2 @@
-\# Synthesis procedure
+# Synthesis procedure
 
