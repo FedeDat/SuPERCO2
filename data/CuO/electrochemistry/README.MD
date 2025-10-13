@@ -1,1 +1,0 @@
-Electrochemical testing data.
