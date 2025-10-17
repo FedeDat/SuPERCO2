@@ -8,6 +8,7 @@
 - 2025-03-05 (test 2): CP on flow cell test.
 - 2025-03-06: CP on flow cell test.
 - 2025-03-07: CP on flow cell test.
+- 2025-03-24: CP on flow cell test.
 
 ## List of abbreviations
 - OCV: Oper Circuit Voltage.
