@@ -26,6 +26,9 @@ from numpy import trapz
 from scipy.signal import find_peaks
 from scipy.optimize import curve_fit
 
+import warnings
+warnings.simplefilter(action='ignore', category=FutureWarning)
+
 # Functions
 
 def cm_to_inch(cm):
