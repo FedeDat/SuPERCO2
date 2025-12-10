@@ -1,5 +1,9 @@
 # Education material for outreach activities
 ## Outreach talks
+- [Students between 8 and 14 years old](https://github.com/FedeDat/SuPERCO2/outreach/talks/general-public).
+  - hahah
+- Students between 15 and 18 years old.
+- General public.
 ## Educational games
 ## Videos
 #### National Final of the GiovedìScienza Prize 2025 (in Italian)
