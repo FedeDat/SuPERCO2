@@ -11,6 +11,8 @@
   - 🇪🇸 _ESP_residencia-d-investigadors_2022_, given to a general public within a seminar series organized at the researchers' residence in Barcelona, Spain (2022, in **Spanish**).
   - 🇮🇹 _IT_sound-of-science_2018_, given to a general public within a seminar series hosted at VITRIOL pub in Fossano, Italy (2018, in **Italian**).
 ## Educational games
+## Podcast
+- 🇪🇸 Ones de ciència. Chapter 27. Sustainable Chemistry. Guest: Federico Dattila, available [here](https://www.radiocambrils.cat/podcasts/ones-de-ciencia/radiocambrils_podcast_1930/) or in the dedicated section.
 ## Videos
 - 🇮🇹 [National Final of the GiovedìScienza Prize 2025](https://youtu.be/CpOnjhXp_Hc?si=L347pw-qrQ9o213Q&t=3741) (in Italian)
 - 🇮🇹 [Application for the GiovedìScienza Prize 2025](https://www.youtube.com/watch?v=jE4bFYK9OhE) (in Italian)
