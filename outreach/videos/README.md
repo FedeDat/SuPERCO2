@@ -7,9 +7,9 @@
   - 🇪🇸 _ESP_bojos_2021_, given to the 2021 students of the educational program Bojos per la Química in Tarragona, Spain (2021, in **Spanish**).
   - 🇬🇧 _EN_BIYSC_2021_, given to the 2021 students of the Barcelona International Youth Science Challenge in Tarragona, Spain (2021, in **Spanish**).
 - [General public](https://github.com/FedeDat/SuPERCO2/tree/main/outreach/talks/general-public).
-  - 🇪🇸 _ESP_residencia-d-investigadors_2022_
-  - 🇪🇸 _ESP_European-researchers-night_2021_
-  - 🇮🇹 _IT_sound-of-science_2018_
+  - 🇪🇸 _ESP_European-researchers-night_2021_, given to a general public at the European Researchers' Night 2021 in Reus, Spain (2021, in **Spanish**).
+  - 🇪🇸 _ESP_residencia-d-investigadors_2022_, given to a general public within a seminar series organized at the researchers' residence in Barcelona, Spain (2022, in **Spanish**).
+  - 🇮🇹 _IT_sound-of-science_2018_, given to a general public within a seminar series hosted at VITRIOL pub in Fossano, Italy (2018, in **Italian**).
 ## Educational games
 ## Videos
 #### National Final of the GiovedìScienza Prize 2025 (in Italian)
