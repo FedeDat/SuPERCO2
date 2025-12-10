@@ -11,6 +11,17 @@
   - 🇪🇸 _ESP_residencia-d-investigadors_2022_, given to a general public within a seminar series organized at the researchers' residence in Barcelona, Spain (2022, in **Spanish**).
   - 🇮🇹 _IT_sound-of-science_2018_, given to a general public within a seminar series hosted at VITRIOL pub in Fossano, Italy (2018, in **Italian**).
 ## Educational games
+Details of the games are provided within the file [educational-games](https://github.com/FedeDat/SuPERCO2/tree/main/outreach/games/educational-games.pdf).
+1.	Disappearing tracks                                  (7-12 years old, page 2)
+2.	Sparkling water                                      (7-12 years old, page 3)
+3.	Food starch	                                         (7-12 years old, page 4)
+4.	Iron in breakfast cereals                            (7-12 years old, page 5)
+5.	Inflate a balloon chemically!                        (7-14 years old, page 6)
+6.	Non-Newtonian fluids                                 (7-12 years old, page 7)
+7.	Distinguishing a hard-boiled egg from a fresh one    (7-14 years old, page 8)
+8.	The fiery water!                                     (7-14 years old, page 9)
+9.	Vegetable dyes and pH with cabbage!                  (10-16 years old, page 10)          
+10.	On the hunt for carbon dioxide!                      (14-18 years old, page 11)
 ## Podcast
 - 🇪🇸 Ones de ciència. Chapter 27. Sustainable Chemistry. Guest: Federico Dattila, available [here](https://www.radiocambrils.cat/podcasts/ones-de-ciencia/radiocambrils_podcast_1930/) or in the dedicated section.
 ## Videos
