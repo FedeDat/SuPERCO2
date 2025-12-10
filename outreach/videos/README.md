@@ -3,7 +3,7 @@
 ## Educational games
 ## Videos
 #### National Final of the GiovedìScienza Prize 2025 (in Italian)
-\[!\[GiovedìScienza - Finale nazionale 2025](https://img.youtube.com/vi/CpOnjhXp\_Hc/0.jpg)](https://youtu.be/CpOnjhXp\_Hc?si=L347pw-qrQ9o213Q\&t=3741)
+\[!\[GiovedìScienza - Finale nazionale 2025](https://img.youtube.com/vi/CpOnjhXp_Hc/0.jpg)](https://youtu.be/CpOnjhXp_Hc?si=L347pw-qrQ9o213Q\&t=3741)
 #### Application for the GiovedìScienza Prize 2025 (in Italian)
 \[!\[GiovedìScienza - Finale nazionale 2025](https://img.youtube.com/vi/jE4bFYK9OhE/0.jpg)](https://www.youtube.com/watch?v=jE4bFYK9OhE)
 #### National Final of the GiovedìScienza Prize 2024 (in Italian)
