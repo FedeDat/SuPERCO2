@@ -1,1 +1,1 @@
-Open source database to store synthesis, characterization, and electrochemical data during electrochemical CO2 reduction studies.
+Proof-of-concept of experimental database to store and automatically analyze CO2 reduction data.
