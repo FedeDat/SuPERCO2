@@ -1,11 +1,7 @@
 ## Educational games
-Details of the games are provided within the file educational-games. When available, the video explaining the game is provided.
-
-#### Disappearing tracks.                                  
+Details of the games are provided within the file educational-games. For some of the games, a video tutorial is available below.                               
 #### Sparkling water:
 [![Sparkling water experiment](https://img.youtube.com/vi/xiWflevO298/0.jpg)](https://youtube.com/shorts/xiWflevO298?si=Y16pYs6-r8IC-JrI)                                   
-#### Food starch
-#### Iron in breakfast cereals
 #### Inflate a balloon chemically!
 [![Inflate a balloon chemically!](https://img.youtube.com/vi/_CYgsqji_0k/0.jpg)](https://youtu.be/_CYgsqji_0k?si=pgmjz-tSe_kz7_K7)
 #### Non-Newtonian fluids
