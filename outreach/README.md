@@ -10,7 +10,7 @@
 - [General public](talks/general-public).
   - 🇪🇸 [_ESP_European-researchers-night_2021_](talks/general-public/ESP_European-researchers-night_2021.pptx), given to a general public at the European Researchers' Night 2021 in Reus, Spain (2021, in **Spanish**).
   - 🇪🇸 [_ESP_residencia-d-investigadors_2022_](talks/general-public/ESP_residencia-d-investigadors_2022.pptx), given to a general public within a seminar series organized at the researchers' residence in Barcelona, Spain (2022, in **Spanish**).
-  - 🇮🇹 [_IT_sound-of-science_2018_](talks/general-public/IT_sound-of-science_2018), given to a general public within a seminar series hosted at VITRIOL pub in Fossano, Italy (2018, in **Italian**).
+  - 🇮🇹 [_IT_sound-of-science_2018_](talks/general-public/IT_sound-of-science_2018.pptx), given to a general public within a seminar series hosted at VITRIOL pub in Fossano, Italy (2018, in **Italian**).
 ## Educational games
 Details of the games are provided within the file [educational-games](games/educational-games.pdf).
 1.	Disappearing tracks                                  (page 2)
