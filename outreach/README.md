@@ -12,16 +12,36 @@
   - 🇮🇹 _IT_sound-of-science_2018_, given to a general public within a seminar series hosted at VITRIOL pub in Fossano, Italy (2018, in **Italian**).
 ## Educational games
 Details of the games are provided within the file [educational-games](https://github.com/FedeDat/SuPERCO2/tree/main/outreach/games/educational-games.pdf).
-1.	Disappearing tracks                                  (7-12 years old, page 2)
-2.	Sparkling water                                      (7-12 years old, page 3)
-3.	Food starch	                                         (7-12 years old, page 4)
-4.	Iron in breakfast cereals                            (7-12 years old, page 5)
-5.	Inflate a balloon chemically!                        (7-14 years old, page 6)
-6.	Non-Newtonian fluids                                 (7-12 years old, page 7)
-7.	Distinguishing a hard-boiled egg from a fresh one    (7-14 years old, page 8)
-8.	The fiery water!                                     (7-14 years old, page 9)
-9.	Vegetable dyes and pH with cabbage!                  (10-16 years old, page 10)          
-10.	On the hunt for carbon dioxide!                      (14-18 years old, page 11)
+1.	Disappearing tracks                                  (page 2)
+  - Target: 7-12 years old.
+  - Objective: To engage the audience with ink which disappears.
+3.	Sparkling water                                      (page 3)
+  - Target: 7-12 years old.
+  - Objective: To make the audience familiar with solution of gas and water and the role of carbon dioxide.
+4.	Food starch	                                         (page 4)
+  - Target: 7-12 years old.
+  - Objective: To detect the presence of starch in different foods.
+5.	Iron in breakfast cereals                            (page 5)
+  - Target: 7-12 years old.
+  - Objective: To extract iron from enriched cereals.
+6.	Inflate a balloon chemically!                        (page 6)
+  - Target: 7-14 years old.
+  - Objective: To inflate a balloon through a chemical reaction.
+7.	Non-Newtonian fluids                                 (page 7)
+  - Target: 7-14 years old.
+  - Objective: To understand the difference between a fluid, a solid, and a non-Newtonian fluid.
+8.	Distinguishing a hard-boiled egg from a fresh one    (page 8)
+  - Target: 7-14 years old.
+  - Objective: To understand the different intertia between solids (hard-boiled eggs) and liquids (fresh eggs).
+9.	The fiery water!                                     (page 9)
+  - Target: 7-14 years old.
+  - Objective: To understand why flames are estinguished with water.
+10.	Vegetable dyes and pH with cabbage!                  (page 10)
+  - Target: 10-16 years old.
+  - Objective: To make the audience familiar with the concept of pH.   
+11.	Carbon dioxide hunters!                              (page 11)
+  - Target: 14-18 years old.
+  - Objective: To make the audience familiar with electrochemical CO<sub>2</sub> reduction.  
 ## Podcast
 - 🇪🇸 Ones de ciència. Chapter 27. Sustainable Chemistry. Guest: Federico Dattila, available [here](https://www.radiocambrils.cat/podcasts/ones-de-ciencia/radiocambrils_podcast_1930/) or in the dedicated section.
 ## Videos
