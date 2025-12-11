@@ -13,5 +13,11 @@ Details of the games are provided within the file educational-games. For some of
 #### Vegetable dyes and pH with cabbage! 
 [![red cabbage pH indicator](https://img.youtube.com/vi/EB9VT3hcETE/0.jpg)](https://youtube.com/shorts/EB9VT3hcETE?si=PwLu1YZQgpGYQTaf)
 #### Carbon dioxide hunters! 
-- [Rules of the game](CO2-hunters/CO2-hunters_poster.pdf)
+Editable files (in .docx) are provided so that you can customize the game as you like!
+###### To get prepared about the game
+- [Rules of the game](CO2-hunters/CO2-hunters_rules.pdf)
+###### To play the game
+- [Explanatory slides](CO2-hunters/CO2-hunters_slides.pptx)
+- [Team form](CO2-hunters/CO2-hunters_team-form.pdf)
+- [Poster of the game](CO2-hunters/CO2-hunters_poster.pdf)
 
