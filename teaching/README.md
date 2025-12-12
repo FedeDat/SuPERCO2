@@ -1,56 +1,49 @@
-# Education material for outreach activities
-## Outreach talks
-- [Students between 8 and 14 years old](talks/8-14y).
-  - 🇪🇸 [_ESP_barcelona_2018_](talks/8-14y/ESP_barcelona_2018.pptx), given to a primary school in Barcelona, Spain (2018, in **Spanish**).
-  - 🇪🇸 [_ESP_canonja_2022_](talks/8-14y/ESP_canonja_2022.pptx), given to a middle school in La Canonja, Spain (2022, in **Spanish**).
-  - 🇮🇹 [_IT_unight_2025_](talks/8-14y/IT_unight_2025.pptx), given to a middle school in Villanova d'Asti, Italy (2025, in **Italian**).
-- [Students between 15 and 18 years old](talks/15-18y).
-  - 🇬🇧 [_EN_BIYSC_2021_](talks/15-18y/EN_BIYSC_2021.pptx), given to the 2021 students of the Barcelona International Youth Science Challenge in Tarragona, Spain (2021, in **Spanish**).
-  - 🇪🇸 [_ESP_bojos_2021_](talks/15-18y/ESP_bojos_2021.pptx), given to the 2021 students of the educational program Bojos per la Química in Tarragona, Spain (2021, in **Spanish**).
-- [General public](talks/general-public).
-  - 🇪🇸 [_ESP_European-researchers-night_2021_](talks/general-public/ESP_European-researchers-night_2021.pptx), given to a general public at the European Researchers' Night 2021 in Reus, Spain (2021, in **Spanish**).
-  - 🇪🇸 [_ESP_residencia-d-investigadors_2022_](talks/general-public/ESP_residencia-d-investigadors_2022.pptx), given to a general public within a seminar series organized at the researchers' residence in Barcelona, Spain (2022, in **Spanish**).
-  - 🇮🇹 [_IT_sound-of-science_2018_](talks/general-public/IT_sound-of-science_2018.pptx), given to a general public within a seminar series hosted at VITRIOL pub in Fossano, Italy (2018, in **Italian**).
-## Educational games
-Details of the games are provided within the file [educational-games](games/educational-games.pdf).
-1.	Disappearing tracks                                  (page 2)
-  - Target: 7-12 years old.
-  - Objective: To engage the audience with ink which disappears.
-2.	Sparkling water                                      (page 3)
-  - Target: 7-12 years old.
-  - Objective: To make the audience familiar with solution of gas and water and the role of carbon dioxide.
-3.	Food starch	                                         (page 4)
-  - Target: 7-12 years old.
-  - Objective: To detect the presence of starch in different foods.
-4.	Iron in breakfast cereals                            (page 5)
-  - Target: 7-12 years old.
-  - Objective: To extract iron from enriched cereals.
-5.	Inflate a balloon chemically!                        (page 6)
-  - Target: 7-14 years old.
-  - Objective: To inflate a balloon through a chemical reaction.
-6.	Non-Newtonian fluids                                 (page 7)
-  - Target: 7-14 years old.
-  - Objective: To understand the difference between a fluid, a solid, and a non-Newtonian fluid.
-7.	Distinguishing a hard-boiled egg from a fresh one    (page 8)
-  - Target: 7-14 years old.
-  - Objective: To understand the different intertia between solids (hard-boiled eggs) and liquids (fresh eggs).
-8.	The fiery water!                                     (page 9)
-  - Target: 7-14 years old.
-  - Objective: To understand why flames are estinguished with water.
-9.	Vegetable dyes and pH with cabbage!                  (page 10)
-  - Target: 10-16 years old.
-  - Objective: To make the audience familiar with the concept of pH.   
-10.	Carbon dioxide hunters!                              (page 11)
-  - Target: 14-18 years old.
-  - Objective: To make the audience familiar with electrochemical CO<sub>2</sub> reduction.  
-## Podcast
-- 🇪🇸 Ones de ciència. Chapter 27. Sustainable Chemistry. Guest: Federico Dattila, available [here](https://www.radiocambrils.cat/podcasts/ones-de-ciencia/radiocambrils_podcast_1930/) or in the dedicated section.
+# VASP tutorial
+## Introduction
+Introductory course on the applications of the Vienna Ab Initio Simulation package to electrochemical systems. 
+All video classes are available in English at: https://youtube.com/playlist?list=PLN_Wp4_IX03DMW5VdEu75ZrzIogryzEcS. All education material is available at the GitHub repository: https://github.com/FedeDat/VASP-tutorial.
+Given by Dr. Federico Dattila (federico.dattila@polito.it) at the Institute of Chemical Research of Catalonia during September 2021.
+
+The course consists of 5 classes:
+ (1) First class covering VASP handson 1 (https://youtu.be/GdaA8y2l-hw) and related tutorial (https://youtu.be/iMPbEImDGlg);
+ (2) Second class covering VASP handson 2 (https://youtu.be/ZLqVEVwZmkY) and related tutorial (https://youtu.be/YyuFrppO_9g); 
+ (3) Third class covering VASP handson 3 (https://youtu.be/aV_dNwFq7QE) and related tutorial (https://youtu.be/mxQ14gX_C0Y);
+ (4) Fourth class covering VASP handson 4 (https://youtu.be/xY1oFCHlyVU), related tutorial (https://youtu.be/YFmBUJ3FHQI), and tips on python and bash programming;
+ (5) Additional class (https://youtu.be/ot9JmNC-UpE) covering an introduction to Blender (https://www.blender.org/), open-source rendering software. Further education material on Blender is available at Dr. Edvin Fako's [YouTube channel](https://youtube.com/@efssh?si=qVuDJ2eYTuEDGJP4). 
+
+Each class includes 
+ (a) notes and hands-on exercises provided by the VASP support team; 
+ (b) additional notes prepared by Dr. Federico Dattila; 
+ (c) additional material provided by Dr. Federico Dattila (when applicable).
+
 ## Videos
-- 🇮🇹 [National Final of the GiovedìScienza Prize 2025](https://youtu.be/CpOnjhXp_Hc?si=L347pw-qrQ9o213Q&t=3741) (in Italian)
-- 🇮🇹 [Application for the GiovedìScienza Prize 2025](https://www.youtube.com/watch?v=jE4bFYK9OhE) (in Italian)
-- 🇮🇹 [National Final of the GiovedìScienza Prize 2024](https://www.youtube.com/watch?v=eFGHrO9vWLU) (in Italian)
-- 🇮🇹 [National Final of FameLab Italia 2022](https://www.youtube.com/watch?v=OBpRP93BrFg) (in Italian)
-- 🇮🇹 [Turin Selection for FameLab Italy 2022](https://www.youtube.com/watch?v=j1nVI4Am2xY) (in Italian)
-- 🇪🇸 [Seminar Series "S.O.S. – The Earth is Calling!](https://www.youtube.com/watch?v=hPD_MzgRyBI) (in Spanish)
-- 🇪🇸 [Spanish competition ‘Do You Want to Know What I Research?’, FameLab Spain Selection 2018](https://www.youtube.com/watch?v=jDeX1o5lK1w) (in Spanish)
-- 🇪🇸 [Scientific conference ‘Carbon Dioxide, the Black Gold of the 21st Century’, European Researchers’ Night 2021](https://www.youtube.com/watch?v=d6NfSE_7PA0) (in Spanish)
+
+### First lecture  
+[![Applicazioni di VASP a sistemi elettrochimici - Prima lezione](https://img.youtube.com/vi/GdaA8y2l-hw/0.jpg)](https://www.youtube.com/watch?v=GdaA8y2l-hw)  
+### Tutorial to the first lecture  
+[![Applicazioni di VASP a sistemi elettrochimici - Tutorial alla prima lezione](https://img.youtube.com/vi/iMPbEImDGlg/0.jpg)](https://www.youtube.com/watch?v=iMPbEImDGlg)  
+### Second lecture  
+[![Applicazioni di VASP a sistemi elettrochimici - Seconda lezione](https://img.youtube.com/vi/ZLqVEVwZmkY/0.jpg)](https://www.youtube.com/watch?v=ZLqVEVwZmkY)  
+### Tutorial to the second lecture
+[![Applicazioni di VASP a sistemi elettrochimici - Tutorial alla seconda lezione](https://img.youtube.com/vi/YyuFrppO_9g/0.jpg)](https://www.youtube.com/watch?v=YyuFrppO_9g)  
+### Third lecture  
+[![Applicazioni di VASP a sistemi elettrochimici - Terza lezione](https://img.youtube.com/vi/aV_dNwFq7QE/0.jpg)](https://www.youtube.com/watch?v=aV_dNwFq7QE)  
+# Tutorial to the third lecture
+[![Applicazioni di VASP a sistemi elettrochimici - Tutorial alla terza lezione](https://img.youtube.com/vi/mxQ14gX_C0Y/0.jpg)](https://www.youtube.com/watch?v=mxQ14gX_C0Y)  
+# Fourth lecture 
+[![Applicazioni di VASP a sistemi elettrochimici - Quarta lezione](https://img.youtube.com/vi/xY1oFCHlyVU/0.jpg)](https://www.youtube.com/watch?v=xY1oFCHlyVU)  
+# Tutorial to the fourth lecture 
+[![Applicazioni di VASP a sistemi elettrochimici - Tutorial alla quarta lezione](https://img.youtube.com/vi/YFmBUJ3FHQI/0.jpg)](https://www.youtube.com/watch?v=YFmBUJ3FHQI)  
+# Visualizing cations on Blender 
+[![Applicazioni di VASP a sistemi elettrochimici - Visualizzazione di cationi con Blender](https://img.youtube.com/vi/ot9JmNC-UpE/0.jpg)](https://www.youtube.com/watch?v=ot9JmNC-UpE)
+
+## Come candidarsi per una borsa Marie Skłodowska-Curie (in inglese)  
+Presentazione tenuta nel novembre 2024 dal Dott. Federico Dattila, destinatario di una borsa europea individuale Marie Skłodowska-Curie European nell'ambito del progetto SuPERCO2-101104004, nel panel CHE (Chimica), Supervisore: Prof.ssa Simelys Hernández, Ente ospitante: Politecnico di Torino. Presentazione organizzato dalla Commissione Progetti del Dipartimento di Scienza Applicata e Tecnologia (DISAT).  
+[![Come scrivere una proposta (in)successa per una European Marie Skłodowska-Curie Individual Fellowship](https://img.youtube.com/vi/-o8AXdn4K08/0.jpg)](https://youtu.be/-o8AXdn4K08?si=DraUOq76fBGCMbh1)
+
+<br>
+
+## Applicazioni di VASP a sistemi elettrochimici (in inglese)  
+Una playlist da non perdere per familiarizzare con le applicazioni della density functional theory a sistemi elettrochimici!
+
+
