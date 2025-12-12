@@ -1,3 +1,6 @@
+# Come candidarsi per una borsa Marie Skłodowska-Curie (in inglese)  
+Presentazione tenuta nel novembre 2024 dal Dott. Federico Dattila, destinatario di una borsa europea individuale Marie Skłodowska-Curie European nell'ambito del progetto SuPERCO2-101104004, nel panel CHE (Chimica), Supervisore: Prof.ssa Simelys Hernández, Ente ospitante: Politecnico di Torino. Presentazione organizzato dalla Commissione Progetti del Dipartimento di Scienza Applicata e Tecnologia (DISAT).  
+[![Come scrivere una proposta (in)successa per una European Marie Skłodowska-Curie Individual Fellowship](https://img.youtube.com/vi/-o8AXdn4K08/0.jpg)](https://youtu.be/-o8AXdn4K08?si=DraUOq76fBGCMbh1)
 # VASP tutorial
 ## Introduction
 Introductory course on the applications of the Vienna Ab Initio Simulation package to electrochemical systems. 
@@ -36,14 +39,3 @@ Each class includes
 [![](https://img.youtube.com/vi/YFmBUJ3FHQI/0.jpg)](https://www.youtube.com/watch?v=YFmBUJ3FHQI)  
 ### Visualizing cations on Blender 
 [![](https://img.youtube.com/vi/ot9JmNC-UpE/0.jpg)](https://www.youtube.com/watch?v=ot9JmNC-UpE)
-
-## Come candidarsi per una borsa Marie Skłodowska-Curie (in inglese)  
-Presentazione tenuta nel novembre 2024 dal Dott. Federico Dattila, destinatario di una borsa europea individuale Marie Skłodowska-Curie European nell'ambito del progetto SuPERCO2-101104004, nel panel CHE (Chimica), Supervisore: Prof.ssa Simelys Hernández, Ente ospitante: Politecnico di Torino. Presentazione organizzato dalla Commissione Progetti del Dipartimento di Scienza Applicata e Tecnologia (DISAT).  
-[![Come scrivere una proposta (in)successa per una European Marie Skłodowska-Curie Individual Fellowship](https://img.youtube.com/vi/-o8AXdn4K08/0.jpg)](https://youtu.be/-o8AXdn4K08?si=DraUOq76fBGCMbh1)
-
-<br>
-
-## Applicazioni di VASP a sistemi elettrochimici (in inglese)  
-Una playlist da non perdere per familiarizzare con le applicazioni della density functional theory a sistemi elettrochimici!
-
-
