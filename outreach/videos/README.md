@@ -11,8 +11,8 @@
 [![FameLab Italia - Selezione Finale Torino 2022](https://img.youtube.com/vi/j1nVI4Am2xY/0.jpg)](https://www.youtube.com/watch?v=j1nVI4Am2xY)
 ## 🇪🇸 Seminar Series "S.O.S. – The Earth is Calling! 2022 (in Spanish)"
 [![Conferenza scientifica ad invito "Il diossido di carbonio, l'oro nero del XXI secolo"](https://img.youtube.com/vi/hPD_MzgRyBI/0.jpg)](https://www.youtube.com/watch?v=hPD_MzgRyBI)
-## 🇮🇹/ Seminar Series "S.O.S. – The Earth is Calling! 2022 (in Spanish)"
-[![Conferenza scientifica ad invito "Il diossido di carbonio, l'oro nero del XXI secolo"](https://img.youtube.com/vi/hPD_MzgRyBI/0.jpg)](https://www.youtube.com/watch?v=hPD_MzgRyBI)
+## 🇮🇹 / 🇬🇧 Sustainability bites by greenTO - CO<sub>2</sub>, from waste to fuel (in Spanish)"
+[![](https://img.youtube.com/vi/l-a5axaejMo/0.jpg)](https://youtu.be/l-a5axaejMo?si=Xd88YapyFWb8r3_h)
 ## 🇪🇸 Spanish competition ‘Do You Want to Know What I Research?’, FameLab Spain Selection 2018 (in Spanish)
 [![Concorso "Vols saber què investigo?" 2018](https://img.youtube.com/vi/jDeX1o5lK1w/0.jpg)](https://www.youtube.com/watch?v=jDeX1o5lK1w)
 ## 🇪🇸 Scientific conference ‘Carbon Dioxide, the Black Gold of the 21st Century’, European Researchers’ Night 2021 (in Spanish)
