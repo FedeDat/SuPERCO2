@@ -1,6 +1,6 @@
-# Come candidarsi per una borsa Marie Skłodowska-Curie (in inglese)  
-Presentazione tenuta nel novembre 2024 dal Dott. Federico Dattila, destinatario di una borsa europea individuale Marie Skłodowska-Curie European nell'ambito del progetto SuPERCO2-101104004, nel panel CHE (Chimica), Supervisore: Prof.ssa Simelys Hernández, Ente ospitante: Politecnico di Torino. Presentazione organizzato dalla Commissione Progetti del Dipartimento di Scienza Applicata e Tecnologia (DISAT).  
-[![Come scrivere una proposta (in)successa per una European Marie Skłodowska-Curie Individual Fellowship](https://img.youtube.com/vi/-o8AXdn4K08/0.jpg)](https://youtu.be/-o8AXdn4K08?si=DraUOq76fBGCMbh1)
+# How to write an (un)successful European Marie Skłodowska-Curie Individual Fellowship proposal
+Presentation given in November 2024 by Dr. Federico Dattila, recipient of a Marie Skłodowska-Curie European Individual Fellowship within the SuPERCO2-101104004 project, in the CHE (Chemistry) panel. Supervisor: Prof. Simelys Hernández. Host institution: Politecnico di Torino. Presentation organized by the Projects Committee of the Department of Applied Science and Technology (DISAT).
+[![](https://img.youtube.com/vi/-o8AXdn4K08/0.jpg)](https://youtu.be/-o8AXdn4K08?si=DraUOq76fBGCMbh1)
 # VASP tutorial
 ## Introduction
 Introductory course on the applications of the Vienna Ab Initio Simulation package to electrochemical systems. 
